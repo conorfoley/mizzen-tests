@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import random
 import string
-from takeScreenshotWithMSS import takeScreenshot
+from take_screenshot_with_mss import takeScreenshot
 
 numOfGarbageChars = 50 
 timesToSubmit = 50
